@@ -4,10 +4,10 @@ Training of Convolutional Neural Networks for image classification on dataset Ca
 
 For all the details on the learning process and implementation [see the final report](https://github.com/gabrieletiboni/Image-classification-on-Caltech101-using-CNNs/blob/master/Report.pdf)
 
-**Useful resources:**
+**Useful resources in this repo:**
 
 - [assignment]()
-- [code]()
+- [code](https://github.com/gabrieletiboni/Image-classification-on-Caltech101-using-CNNs/blob/master/CODE/Homework2_MLDL.ipynb)
 - [report](https://github.com/gabrieletiboni/Image-classification-on-Caltech101-using-CNNs/blob/master/Report.pdf)
 
 ---
